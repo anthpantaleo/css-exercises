@@ -34,7 +34,7 @@ body {
   flex-direction: column;
 }
 
-.header {
+ .header {
   display: flex;
   align-items: center;
   padding: 0 16px;
@@ -72,6 +72,7 @@ a {
   padding: 32px;
   display: flex;
   flex-wrap: wrap;
+  padding-bottom: 32px;
 }
 
 .card {
